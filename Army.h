@@ -16,7 +16,6 @@ piece of work is entirely of my own creation.
 #define MAX_NAME_LEN 50
 namespace sdds {
 	struct Army {
-	private:
 		char m_nationality[MAX_NAME_LEN];
 		int m_noOfunits;
 		double m_power;
@@ -29,7 +28,6 @@ namespace sdds {
 		double checkPower() const;
 		bool isEmpty() const;
 		bool isStrongerThan(const Army& army)const;
-		void set(const char*, int, double);
 	};
 	void battle(Army& arm1, Army& arm2);
 	void displayDetails(const Army* armies, int size);

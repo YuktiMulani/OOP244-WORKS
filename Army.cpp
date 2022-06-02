@@ -22,13 +22,13 @@ using namespace std;
 namespace sdds {
 	void Army::setEmpty() {
 		Army army;
-		army.m_nationality[MAX_NAME_LEN];
-		army.m_noOfunits;
-		army.m_power;
+		army.m_nationality[MAX_NAME_LEN] = {0};
+		army.m_noOfunits=0;
+		army.m_power=0;
 
 	}
 	void Army::createArmy(const char* country, double pow, int troops) {
-		if (country != nullptr && !(strlen(country) <= 0)) {
+		if (country != nullptr && !(strlen(country) < 1)) {
 			for (int i = 0; i < MAX_NAME_LEN; i++) {
 				m_nationality[i]= country[i];
 			}
@@ -73,12 +73,20 @@ namespace sdds {
 			return false;
 		}
 	}
+	
 	void battle(Army& arm1, Army& arm2) {
+		if ((&arm1 == 0) && (&arm2 == 0)) {
+			cout << "Invalid Armies" << endl;
+		}
 		if (arm1.isStrongerThan(arm2)) {
-			(arm2.updateUnits())
+			arm2.updateUnits((arm2.m_noOfunits/2));
 		}
 	}
 	void displayDetails(const Army* armies, int size) {
+		cout << "Armies reporting to battle:" << endl;
+		for (int i = 0; i < size; i++) {
+			cout << "Nationality:" << armies[i].m_nationality << ", Units Count :" << armies[i].m_noOfunits << ", Power left :" << armies[i].m_power << endl;
+		}
 
 	}
 
