@@ -1,0 +1,8 @@
+protoype
+bool openFile(const char filename[]);
+
+implementation
+ bool openFile(const char filename[]) {
+      fptr = fopen(filename, "r");
+      return fptr != NULL;
+ }

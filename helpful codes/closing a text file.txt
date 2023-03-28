@@ -1,0 +1,7 @@
+prototype
+void closeFile();
+
+implementation
+void closeFile() {
+      if (fptr) fclose(fptr);
+}

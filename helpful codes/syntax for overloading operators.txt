@@ -1,0 +1,13 @@
+//overloading extraction operator(prototype)
+friend istream& operator>>(istream& is, node*& head);
+
+//overloading insertion operator(prototype)
+friend ostream& operator<<(ostream& os, const Date& dt);
+
+
+//implementation
+//insertion
+ostream& operator<<(ostream& os, const Date& dt){}
+
+//extraction
+istream& operator>>(istream& is, node*& head){}

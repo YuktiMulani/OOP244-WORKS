@@ -1,0 +1,14 @@
+prototype
+ int noOfRecords();
+
+
+implementation
+int noOfRecords() {
+      int noOfRecs = 0;
+      char ch;
+      while (fscanf(fptr, "%c", &ch) == 1) {
+         noOfRecs += (ch == '\n');
+      }
+      rewind(fptr);
+      return noOfRecs;
+   }
