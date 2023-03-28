@@ -1,0 +1,33 @@
+/*
+*****************************************************************************
+                            Workshop 5 part 2
+Full Name   : Yukti Manoj Mulani
+Student ID# : 156809212
+Seneca email: ymulani@myseneca.ca
+Date        : June 20, 2022
+Authenticity Declaration :
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider.This submitted
+piece of work is entirely of my own creation.
+*****************************************************************************
+*/
+
+
+
+This workshop helped me to get a stronger grip on the topics like:-
+1.define and create binary member operators
+2.define and create various type conversion operators
+3.define and create unary operators
+4.define and create helper binary operator between classes
+5.define and create helper operators between a primitive type and a class.
+
+
+I learned that a binary operation consists of one operator and two operands.  
+In a binary member operator, the left operand is the current object and the 
+member function takes one explicit parameter: the right operand. 
+
+Type conversion operators define implicit conversions to different types, 
+including fundamental types. The unary operator does not take any explicit 
+parameters except for post fix operator. 
+This workshop helped to revise all the topics and cleared the concepts needed for midterm too.
+

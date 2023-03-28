@@ -1,0 +1,30 @@
+/******************************************************
+				Workshop-10 Part-2
+	NAME          : Yukti Manoj Mulani
+	EMAIL         : ymulani@myseneca
+	STUDENT ID    : 156809212
+	DATE COMPLETED: 07-Aug-2022
+	I have done all the coding by myself
+	and only copied the code that my professor provided
+	to complete my workshops and assignments.
+********************************************************
+*/
+
+This workshop helped me to concentrate on the following topics.
+-Code function templates
+-Implement calls to function templates
+
+Special functions that can interact with generic types are known 
+as function templates. As a result, we can develop a function 
+template whose functionality can be applied to multiple types or 
+classes without having to duplicate the full code for each kind. 
+This may be done by using template parameters.
+
+Once a function template has been declared and defined, it can be 
+called in other functions or templates (like the main() function) 
+using the following syntax.
+
+functionName<dataType>(parameter1, parameter2,...);
+
+these helped me build the most important aspect of the code and 
+was really helpful in completing the program.

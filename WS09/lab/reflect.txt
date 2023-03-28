@@ -1,0 +1,29 @@
+/*
+*****************************************************************************
+                            Workshop 9 part 2
+Full Name   : Yukti Manoj Mulani
+Student ID# : 156809212
+Seneca email: ymulani@myseneca.ca
+Date        : August 01, 2022
+Authenticity Declaration :
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider.This submitted
+piece of work is entirely of my own creation.
+*****************************************************************************
+*/
+
+
+This lab has been a little easier than the previous labs. In this lab, I learned 
+the following topics:-
+-Derive a class with resource from a base class which also includes a dynamic cString.
+-Override virtual an non-virtual methods of the base class.
+-Apply the rule of three to the base and the derived class
+-Use the acquired skills throughout the semester to read and write dynamic data from int into date files.
+ 
+Derived Class: A class that is created from an existing class which is called a base class. The derived
+class inherits all members and member functions of a base class. The derived class can have more functionality 
+with respect to the Base class and can easily access the Base class.
+It took some effort to deal with the cstring in the base class but after taking a look at the notes and the 
+lecture it was possible for me to do it.Another challenge was to override the non virtual function which was also 
+achieved but with a little hardwork and concentration.
+Overall this workshop has cleared all my concepts and helped step out of my comfort zone.

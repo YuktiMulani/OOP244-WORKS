@@ -1,0 +1,22 @@
+/*
+*****************************************************************************
+							Workshop 8 part 2
+Full Name   : Yukti Manoj Mulani
+Student ID# : 156809212
+Senecamail  : ymulani@myseneca.ca
+Date        : JULY 26, 2022
+Authenticity Declaration :
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider.This submitted
+piece of work is entirely of my own creation.
+*****************************************************************************
+*/
+
+
+This workshop has been very informative and knowledgeable for me as I have 
+learned a lot of new concepts. One of them is how to define pure natural functions while 
+running the program this can be done by introducing an interface class.implementing behaviors declared in a pure virtual function is another thing I learned from 
+this workshop .the following things were important too.
+explain the difference between an abstract base class and a concrete class
+this workshop got the best out of me cause I wanted to do it without taking anybody's help and I did it which 
+made me feel confident and satisfied.

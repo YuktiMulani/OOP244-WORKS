@@ -1,5 +1,6 @@
 # Visual Studio
 *.sdf
+# *.sln
 *.user
 *.suo
 *.opensdf

@@ -1,0 +1,18 @@
+// for cpp files
+
+#include <cstdio>
+#include <iostream>
+#include <cstdlib>
+#define _CRT_SECURE_NO_WARNINGS
+using namespace std;
+using namespace sdds;
+
+//for header files
+
+#ifndef SDDS_HEADERFILENAME_H // replace with relevant names
+#define SDDS_HEADERFILENAME_H
+namespace sdds{
+
+}
+
+#endif
