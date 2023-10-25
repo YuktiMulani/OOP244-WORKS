@@ -1,10 +1,4 @@
-/* ----------------------------------------------------
-Workshop 3:
-Version: 1.0
-Author: Fardad Soleimanloo
-Description:
-This file tests the BarChart section of your DIY workshop
------------------------------------------------------*/
+
 
 #include <iostream>
 #include "BarChart.h"

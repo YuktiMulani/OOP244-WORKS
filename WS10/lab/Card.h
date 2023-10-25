@@ -1,10 +1,4 @@
-// Workshop 10:
-// Card.h
-// 2022-02-19
-// Version: 1.0 
-// Author: Nathan Misener
-// Revised by: 
-/////////////////////////////////////////////
+
 #include <iostream>
 #ifndef SDDS_CARD_H_
 #define SDDS_CARD_H_

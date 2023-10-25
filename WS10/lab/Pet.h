@@ -1,10 +1,4 @@
-// Workshop 10:
-// Pet.h
-// 2022-02-25
-// Version: 1.0 
-// Author: Nathan Misener
-// Revised by: 
-/////////////////////////////////////////////
+
 #include <iostream>
 #ifndef SDDS_PET_H_
 #define SDDS_PET_H_

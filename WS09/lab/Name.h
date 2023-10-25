@@ -1,14 +1,4 @@
-/******************************************************
-                Workshop-9 Part-1
-    NAME          : Yukti Manoj Mulani
-    EMAIL         : ymulani@myseneca
-    STUDENT ID    : 156809212
-    DATE COMPLETED: 29-Jul-2022
-    I have done all the coding by myself
-    and only copied the code that my professor provided
-    to complete my workshops and assignments.
-********************************************************
-*/
+
 #ifndef SDDS_NAME_H_
 #define SDDS_NAME_H_
 #include<iostream>

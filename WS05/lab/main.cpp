@@ -1,9 +1,4 @@
-// Workshop 5:
-// Version: 1.0
-// Author: Aras Azimipanah
-// Description:
-// This file tests the lab section of your workshop
-/////////////////////////////////////////////
+
 #include <iostream>
 #include "Book.h"
 #include "Chapter.h"

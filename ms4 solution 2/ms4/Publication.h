@@ -1,13 +1,4 @@
-/******************************************************
-				Milestone-4
-	NAME          :YUKTI MANOJ MULANI
-	EMAIL         :YMULANI@MYSENECA.CA
-	STUDENT ID    :156809212
-	DATE COMPLETED:05-AUG-2022
-	I have done all the coding by myself
-	and only copied the code that my professor provided
-	to complete my workshops and assignments.
-********************************************************/
+
 
 #ifndef SDDS_PUBLICATION_H
 #define SDDS_PUBLICATION_H

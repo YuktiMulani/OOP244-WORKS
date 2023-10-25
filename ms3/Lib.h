@@ -1,24 +1,4 @@
 
-/******************************************************
-                Milestone-3
-    NAME          :
-    EMAIL         :
-    STUDENT ID    :
-    DATE COMPLETED:
-    I have done all the coding by myself
-    and only copied the code that my professor provided
-    to complete my workshops and assignments.
-********************************************************/
-
-// Final Project Milestone 3
-// Lib Module
-// File  Lib.h
-// Version 1.0
-// Author   Fardad Soleimanloo
-// Revision History
-// -----------------------------------------------------------
-// Name               Date                 Reason
-/////////////////////////////////////////////////////////////////
 
 #ifndef SDDS_LIB_H
 #define SDDS_LIB_H

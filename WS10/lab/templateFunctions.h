@@ -1,21 +1,3 @@
-/*
-*******************************************************************************
-Workshop 10
-Name: Yukti Manoj Mulani
-Student ID: 156809212
-Email: ymulani@myseneca.ca
-Date Completed: 2022-08-02
-
------------------------------------------------------------
-Revision History:
-Date:        Reason:
-2022-07-28   v1.0 Complete
------------------------------------------------------------
-
-Authenticity Declaration :
-I have done all the coding by myself and only copied the
-code that my professor provided to complete my workshops and assignments.
-***/
 
 #ifndef SDDS_TEMPLATEFUNCTIONS_H_
 #define SDDS_TEMPLATEFUNCTIONS_H_

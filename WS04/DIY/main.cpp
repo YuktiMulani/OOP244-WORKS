@@ -1,10 +1,4 @@
-/* ------------------------------------------------------
-Workshop 4 part 2
-Module: N/A
-Filename: main.cpp
-Version 1.0
-Author: Asad Norouzi 
------------------------------------------------------------*/
+
 #include <iostream>
 #include "CleanerBot.h"
 

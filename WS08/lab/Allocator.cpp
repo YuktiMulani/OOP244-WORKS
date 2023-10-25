@@ -1,23 +1,4 @@
 
-// Workshop 8 - Virtual Functions and Abstract Base Classes
-// File: Allocator.cpp
-// Version: 2.0
-// Date: 2018/11/02
-// Author: Chris Szalwinski, based on work by Heidar Davoudi
-// Description:
-// This file allocates an Account object in dynamic memory
-///////////////////////////////////////////////////
-/******************************************************
-				Workshop-8 Part-1
-	NAME          : Yukti Manoj Mulani
-	EMAIL         : ymulani@myseneca
-	STUDENT ID    : 156809212
-	DATE COMPLETED: 21-Jul-2022
-	I have done all the coding by myself
-	and only copied the code that my professor provided
-	to complete my workshops and assignments.
-********************************************************
-*/
 #include "SavingsAccount.h" 
 #include "ChequingAccount.h"
 #include "iAccount.h"

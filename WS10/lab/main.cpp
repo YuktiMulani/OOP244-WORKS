@@ -1,10 +1,4 @@
-// Workshop 10:
-// Collection template
-// 2022-02-25
-// Version: 1.0 
-// Author: Nathan Misener
-// Revised by: Maria Patricia Espinoza Bueno
-/////////////////////////////////////////////
+
 
 #include <iostream>
 #include "Card.h"

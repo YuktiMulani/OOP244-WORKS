@@ -1,10 +1,4 @@
-// Workshop 8 - Virtual Functions and Abstract Base Classes
-// File: main.cpp
-// Version: 2.0
-// Author: Chris Szalwinski, based on previous work by Heidar Davoudi
-// Description:
-// This file tests at_home section of your workshop
-///////////////////////////////////////////////////
+
 
 #include <iostream>
 #include <cstring>

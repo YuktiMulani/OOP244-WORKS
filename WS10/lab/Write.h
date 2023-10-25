@@ -1,10 +1,4 @@
-// Workshop 10:
-// Write.h
-// 2022-02-25
-// Version: 1.0 
-// Author: Nathan Misener
-// Revised by: 
-/////////////////////////////////////////////
+
 #include <iostream>
 #ifndef SDDS_READWRITE_H_
 #define SDDS_READWRITE_H_

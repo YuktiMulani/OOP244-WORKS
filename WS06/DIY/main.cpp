@@ -1,9 +1,4 @@
-// Workshop 6: Classes with Resources
-// Version: 1.0
-// Author: Nargis Khan, Cornel Barna
-// Description:
-// This file tests lab section of your workshop
-/////////////////////////////////////////////
+
 
 #include<iostream>
 #include<cstring>

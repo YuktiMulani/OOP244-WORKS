@@ -1,10 +1,4 @@
-/*----------------------------------------------------
-Workshop 3:
-Version: 1.0
-Author: Fardad Soleimanloo
-Description:
-This file tests the Bar class of your DIY workshop
-----------------------------------------------------*/
+
 #include "Bar.h"
 #include <cstdio>
 #include <iostream>

@@ -1,14 +1,3 @@
-/******************************************************
-                Workshop-7 Part-1
-    NAME          : Yukti Manoj Mulani
-    EMAIL         :ymulani@myseneca.ca
-    STUDENT ID    :156809212
-    DATE COMPLETED:19-Jul-2022
-    I have done all the coding by myself
-    and only copied the code that my professor provided
-    to complete my workshops and assignments.
-********************************************************
-*/
 
 
 #define _CRT_SECURE_NO_WARNINGS

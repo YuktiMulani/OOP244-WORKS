@@ -1,9 +1,4 @@
-// Workshop 6. part 1
-// Version: 1.0
-// Author: Fardad Soleimanloo
-// Description:
-// This file tests the lab section of your workshop
-/////////////////////////////////////////////
+
 #include <iostream>
 #include <fstream>
 #include "Numbers.h"

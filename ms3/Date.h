@@ -1,24 +1,4 @@
 
-/******************************************************
-                Milestone-3
-    NAME          :YUKTI MANOJ MULANI
-    EMAIL         :YMULANI@MYSENECA.CA
-    STUDENT ID    :156809212
-    DATE COMPLETED:29-JUL-2022
-    I have done all the coding by myself
-    and only copied the code that my professor provided
-    to complete my workshops and assignments.
-********************************************************/
-
-// Final Project Milestone 3
-// Date Module
-// File  Date.h
-// Version 1.0
-// Author   Fardad Soleimanloo
-// Revision History
-// -----------------------------------------------------------
-// Name               Date                 Reason
-/////////////////////////////////////////////////////////////////
 #ifndef SDDS_DATE_H__
 #define SDDS_DATE_H__
 #include <iostream>

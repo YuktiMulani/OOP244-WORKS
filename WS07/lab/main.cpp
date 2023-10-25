@@ -1,9 +1,4 @@
-// Workshop 7
-// Version: 1.0
-// Author: Asam Gulaid
-// Description:
-// This file tests your workshop 7
-/////////////////////////////////////////////
+
 
 #include<iostream>
 #include "Minister.h"

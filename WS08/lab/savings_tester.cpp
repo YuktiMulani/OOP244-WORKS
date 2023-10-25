@@ -1,11 +1,4 @@
-// Workshop 8 - Virtual Functions and Abstract Base Classes
-// File: savings_tester.cpp
-// Version: 2.0
-// Author: Chris Szalwinski, based on previous work by Heidar Davoudi
-// Description:
-// This file implements the Account class
-// revised by Fardad Soleimanloo
-/////////////////////////////////////////////////////////////////
+
 #include <iostream>
 #include <cstring>
 #include "iAccount.h" 
@@ -54,7 +47,7 @@ int main() {
 	Angelina[1] = new SavingsAccount(400.0, 0.05);
 	display("Angelina", Angelina, 2);
 
-	cout << "DEPOSIT $2000 into Angelina’s Accounts ..." << endl;
+	cout << "DEPOSIT $2000 into Angelinaï¿½s Accounts ..." << endl;
 	for (int i = 0; i < 2; i++)
 		Angelina[i]->credit(2000);
 

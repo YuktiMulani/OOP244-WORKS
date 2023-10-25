@@ -1,10 +1,4 @@
-// Workshop 10:
-// Collection.h
-// 2022-02-25
-// Version: 1.0 
-// Author: Nathan Misener
-// Revised by: 
-/////////////////////////////////////////////
+
 #ifndef SDDS_COLLECTION_H_
 #define SDDS_COLLECTION_H_
 namespace sdds {

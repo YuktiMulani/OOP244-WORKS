@@ -1,9 +1,4 @@
-/* ------------------------------------------------------
-Workshop 4 part 1
-Filename: main.cpp
-Version 1.0
-Author: Asad Norouzi
------------------------------------------------------------*/
+
 #include<iostream>
 #include<iomanip>
 #include "Car.h"

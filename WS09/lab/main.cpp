@@ -1,10 +1,4 @@
-/* ------------------------------------------------------
-Workshop 9 part 1
-Filename: main.cpp
-Version 1.0
-Author : Fardad Soleimanloo
-Date: 2022-06-09
----------------------------------------------------------- - */
+
 #include <iostream>
 #include <fstream>
 #include "FullName.h"

@@ -1,10 +1,4 @@
-// Workshop 10:
-// Pet.cpp
-// 2022-02-25
-// Version: 1.0 
-// Author: Nathan Misener
-// Revised by: 
-/////////////////////////////////////////////
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <iomanip>

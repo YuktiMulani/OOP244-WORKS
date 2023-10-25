@@ -1,14 +1,5 @@
-/******************************************************
-				Milestone-2
-	NAME          : Yukti Manoj Mulani
-	EMAIL         : ymulani@myseneca
-	STUDENT ID    : 156809212
-	DATE COMPLETED: 22-Jul-2022
-	I have done all the coding by myself
-	and only copied the code that my professor provided
-	to complete my workshops and assignments.
-********************************************************
-*/
+
+
 
 #include "Menu.h"
 
