@@ -6,7 +6,7 @@ This session was open to all the students who needed to review the 144/100 conce
 
 [144/100 Review Recrodings](https://github.com/Seneca-244200/OOP244-NAA-ZAA-NFF-Notes/blob/main/README.md#144100-review-recrodings)
 
-## Setting up your computers for OOP244
+## Setting up your computers for OOP244...
 
 Installation guides for preparing your computer for the subject can be found in this playlist on YouTube:<br />
 [Seneca-SDDS "how to" videos for C/C++ Core subjects](https://www.youtube.com/playlist?list=PLxB4x6RkylosAh1of4FnX7-g2fk0MUeyc)<br />
